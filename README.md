@@ -7,5 +7,4 @@ The Repository contains the following:
 1. Data Folder : Contains 3 csv files 
 2. WeatherData_Extraction: Code for Data Collection (.ipynb file)
 3. Rain_Predictor: Code for EDA and Rain Prediction (.ipynb file)
-4. LGBM_model: Light GBM model to predict the chances of rain (.pkl file)
-5. README.md file
+4. README.md file
