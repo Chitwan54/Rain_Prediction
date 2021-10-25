@@ -11,5 +11,5 @@ The Repository contains the following:
 
 Notebook and the dataset can also be viewed on my Kaggle Profile:
 
-Dataset Link: https://www.kaggle.com/chitwanmanchanda/weather-api-data
-Notebook Link: https://www.kaggle.com/chitwanmanchanda/eda-rain-prediction-classifcation-recall-0-97
+**Dataset Link**: https://www.kaggle.com/chitwanmanchanda/weather-api-data
+**Notebook Link**: https://www.kaggle.com/chitwanmanchanda/eda-rain-prediction-classifcation-recall-0-97
